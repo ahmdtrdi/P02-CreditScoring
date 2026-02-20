@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tri/Documents/code/P02/notebook/../mlruns/574172305759250793/535a5bf1635343a1879413861108ca30/artifacts
+end_time: 1771597234703
+entry_point_name: ''
+experiment_id: '574172305759250793'
+lifecycle_stage: active
+run_id: 535a5bf1635343a1879413861108ca30
+run_name: CDA_H1_Sectoral_Shock
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771597234692
+status: 3
+tags: []
+user_id: tri

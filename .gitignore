@@ -1,3 +1,5 @@
 data/01-raw/foia-7a-fy2010-fy2019-as-of-251231.csv
 data/01-raw/foia-7a-fy2020-present-as-of-251231.csv
 data/02-preprocessed/data_master.parquet
+
+.DS_Store

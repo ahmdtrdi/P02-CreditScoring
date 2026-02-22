@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tri/Documents/code/P02/notebook/../mlruns/574172305759250793/6c0fd624a87f42d4bfd4f529fa03050b/artifacts
+end_time: 1771772951908
+entry_point_name: ''
+experiment_id: '574172305759250793'
+lifecycle_stage: active
+run_id: 6c0fd624a87f42d4bfd4f529fa03050b
+run_name: ETL_Base_DataClean_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771772833041
+status: 3
+tags: []
+user_id: tri

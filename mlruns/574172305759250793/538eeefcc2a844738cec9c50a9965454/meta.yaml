@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tri/Documents/code/P02/notebook/../mlruns/574172305759250793/538eeefcc2a844738cec9c50a9965454/artifacts
+end_time: 1771774208871
+entry_point_name: ''
+experiment_id: '574172305759250793'
+lifecycle_stage: active
+run_id: 538eeefcc2a844738cec9c50a9965454
+run_name: Hypothesis_Testing_v2.2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771774171560
+status: 3
+tags: []
+user_id: tri

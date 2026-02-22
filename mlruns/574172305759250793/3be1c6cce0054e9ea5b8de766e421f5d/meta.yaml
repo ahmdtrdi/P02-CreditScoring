@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tri/Documents/code/P02/notebook/../mlruns/574172305759250793/3be1c6cce0054e9ea5b8de766e421f5d/artifacts
+deleted_time: 1771771292558
+end_time: 1771770844023
+entry_point_name: ''
+experiment_id: '574172305759250793'
+lifecycle_stage: deleted
+run_id: 3be1c6cce0054e9ea5b8de766e421f5d
+run_name: preprocessing_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771770844003
+status: 4
+tags: []
+user_id: tri

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tri/Documents/code/P02/notebook/../mlruns/574172305759250793/c4b22820056149f4ab1b268887e167e5/artifacts
+end_time: 1771919334851
+entry_point_name: ''
+experiment_id: '574172305759250793'
+lifecycle_stage: active
+run_id: c4b22820056149f4ab1b268887e167e5
+run_name: Baseline_Tuning_V1.1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771918413295
+status: 3
+tags: []
+user_id: tri

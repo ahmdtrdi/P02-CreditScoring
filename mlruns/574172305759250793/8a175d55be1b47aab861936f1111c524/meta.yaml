@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tri/Documents/code/P02/notebook/../mlruns/574172305759250793/8a175d55be1b47aab861936f1111c524/artifacts
+end_time: 1772003425819
+entry_point_name: ''
+experiment_id: '574172305759250793'
+lifecycle_stage: active
+run_id: 8a175d55be1b47aab861936f1111c524
+run_name: righteous-ant-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772003179005
+status: 3
+tags: []
+user_id: tri

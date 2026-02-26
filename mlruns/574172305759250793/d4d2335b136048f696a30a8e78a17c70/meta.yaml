@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tri/Documents/code/P02/notebook/../mlruns/574172305759250793/d4d2335b136048f696a30a8e78a17c70/artifacts
+end_time: 1772076900145
+entry_point_name: ''
+experiment_id: '574172305759250793'
+lifecycle_stage: active
+run_id: d4d2335b136048f696a30a8e78a17c70
+run_name: Base_Models_Tuning_Evaluation
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772076464882
+status: 3
+tags: []
+user_id: tri

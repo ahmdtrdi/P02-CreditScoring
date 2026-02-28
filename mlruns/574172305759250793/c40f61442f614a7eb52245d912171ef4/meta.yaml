@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tri/Documents/code/P02/notebook/../mlruns/574172305759250793/c40f61442f614a7eb52245d912171ef4/artifacts
+end_time: 1772271494782
+entry_point_name: ''
+experiment_id: '574172305759250793'
+lifecycle_stage: active
+run_id: c40f61442f614a7eb52245d912171ef4
+run_name: Ensemble_Strategy
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772271478567
+status: 3
+tags: []
+user_id: tri

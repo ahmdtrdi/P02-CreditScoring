@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tri/Documents/code/P02/notebook/../mlruns/574172305759250793/7c01ebd89c5c415ea097db07340cfecc/artifacts
+end_time: 1772357511205
+entry_point_name: ''
+experiment_id: '574172305759250793'
+lifecycle_stage: active
+run_id: 7c01ebd89c5c415ea097db07340cfecc
+run_name: Stress-Testing-v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772357220121
+status: 3
+tags: []
+user_id: tri

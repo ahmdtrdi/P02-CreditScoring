@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/tri/Documents/code/P02/notebook/../mlruns/574172305759250793/e9f6fcd6938e494699184af363fa7ff1/artifacts
+end_time: 1772357192487
+entry_point_name: ''
+experiment_id: '574172305759250793'
+lifecycle_stage: active
+run_id: e9f6fcd6938e494699184af363fa7ff1
+run_name: IRB_enchanment_plot
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772357151443
+status: 3
+tags: []
+user_id: tri
